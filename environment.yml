@@ -5,6 +5,7 @@ channels:
 dependencies:
   - xeus-python
   - pandas
+  - pyarrow
   - matplotlib
   - seaborn
   - ipywidgets
