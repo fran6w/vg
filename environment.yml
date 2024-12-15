@@ -10,5 +10,3 @@ dependencies:
   - seaborn
   - ipywidgets
   - plotly
-  - shap
-  - catboost
