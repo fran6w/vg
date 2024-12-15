@@ -1,8 +1,14 @@
-name: voici
+name: vg
 channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
 dependencies:
   - xeus-python
+  - numpy
   - pandas
-  - bqplot
+  - matplotlib
+  - seaborn
+  - ipywidgets
+  - plotly
+  - shap
+  - catboost
